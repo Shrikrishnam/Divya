@@ -1,0 +1,66 @@
+{
+  "allfriends": [
+    {
+      "firstname": "Pranit",
+      "lastname": "Vaidya",
+      "age": 19,
+      "phonenumber": "9988776777",
+      "email": "test@test.com",
+      "streetaddress": "test",
+      "city": "test",
+      "state": "test",
+      "country": "India",
+      "pincode": "560058",
+      "trainerpreference": "Female",
+      "physiotherapist": "Yes",
+      "packages": "2400",
+      "inr": "2400",
+      "date": "2020-08-20",
+      "id": 1
+    },
+    {
+      "firstname": "Priyank",
+      "lastname": "Vaidya",
+      "packages": "2400",
+      "physiotherapist": "Yes",
+      "trainerpreference": "Male",
+      "age": 23,
+      "email": "test@test.com",
+      "phonenumber": "0998877665",
+      "pincode": "560058",
+      "country": "India",
+      "state": "test",
+      "city": "test",
+      "streetaddress": "test",
+      "inr": "2400",
+      "date": "2020-08-20",
+      "id": 2
+    }
+  ],
+  "contacts": [
+    {
+      "firstname": "Pooja",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776655",
+      "email": "test@test.com",
+      "message": "5",
+      "id": 1
+    },
+    {
+      "firstname": "Prachi",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776655",
+      "email": "test@test.com",
+      "message": "12",
+      "id": 2
+    },
+    {
+      "firstname": "Poojan",
+      "lastname": "Vaidya",
+      "phonenumber": "9988776653",
+      "email": "test@test.com",
+      "message": "tftsfdtsf",
+      "id": 3
+    }
+  ]
+}
